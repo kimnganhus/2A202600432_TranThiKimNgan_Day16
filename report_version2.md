@@ -104,28 +104,28 @@ Why competitors cannot easily replicate this:
 ## 6. Initial TAM / SAM / SOM view
 | Layer | Estimate | Key assumptions | Confidence |
 |---|---|---|---|
-| TAM | [range, e.g. $X–$Y M/year] | [...] | low / med / high |
-| SAM | [range] | [...] | low / med / high |
-| SOM | [12–24mo target] | [...] | low / med / high |
+| TAM | [~37.5 triệu người sử dụng gym thường xuyên ở Việt Nam, quy mô thị trường fitness & app sức khỏe đạt hàng chục tỷ USD vào 2030 ] | [Số lượng người tập gym gia tăng, smartphone phổ biến, nhu cầu app fitness tăng.] | cao (về xu hướng thị trường) / trung bình (về phân khúc “AI coach kỹ thuật”) |
+| SAM | [~10M–15M người dùng smartphone ở Việt Nam, 18–35, có thể dùng/chi phí cho app fitness cá nhân] | [30–40% người tập quan tâm đến app, trong đó phần không nhỏ sẵn sàng dùng tính năng trả phí nhẹ.] | trung bình |
+| SOM | [0.5M–1.5M người dùng trong 12–24 tháng (Việt Nam + một số thị trường nói tiếng Anh)] | [Giả sử 3–10% SAM có thể tiếp cận qua kênh digital (TikTok, YouTube, cộng đồng, collab) trong 1–2 năm, với mô hình freemium + subscription.] | thấp–trung bình (phụ thuộc vào tốc độ tăng trưởng và hiệu quả marketing)
+ |
 **Top 3 unknowns requiring further research:**
-1. [...]
-2. [...]
-3. [...]
+1. [
+Mức độ sẵn sàng trả tiền của người mới tập gym ở Việt Nam để có AI kiểm tra kỹ thuật.]
+2. [Khả năng thực sự cải thiện kỹ thuật của người dùng khi sử dụng AI Gym Coach so với tự xem video/PT offline.]
+3. [Phản ứng của gyms và PT tại Việt Nam: họ sẽ coi sản phẩm là công cụ hỗ trợ, kênh bán hàng, hay đối thủ.]
 **Judgment:**
-- [ ] Worth pursuing now
-- [ ] Worth pursuing but not now (need to validate [...] first)
-- [ ] Not worth pursuing as currently framed
+- Với xu hướng tăng mạnh của fitness & app sức khỏe ở Việt Nam, nhu cầu tập đúng kỹ thuật, giảm chấn thương, và sản phẩm có trọng tâm rõ ràng là “chỉ sửa form qua video” chứ không lan rộng sang nhiều tính năng.
 ---
 ## 7. Positioning Note (2 sentences)
 **What we are:**
-> [1 câu]
+> [AI Gym Coach là một huấn luyện viên AI dựa trên video, giúp người mới tập gym tự tập đúng kỹ thuật và giảm chấn thương qua phản hồi kỹ thuật tức thì từ video quay bằng điện thoại.]
 **What we are not / not yet:**
-> [1 câu]
+> [Chúng tôi không phải là một PT toàn diện có kèm kế hoạch ăn uống, lịch tập dài hạn, hay coaching live theo thời gian thực; hiện tại chúng tôi tập trung vào phản hồi kỹ thuật và theo dõi tiến độ cho các bài tập cơ bản]
 ---
 ## 8. Self-assessment before Day 17
 Trong 6 mắt xích (Idea Customer Need Strategy Moat Market Size), mắt xích nà
 > [trả lời thật — đây là input quan trọng cho Day 17]
 Open questions chúng tôi muốn khám phá thêm ở Day 17:
-1. [...]
-2. [...]
-3. [...]
+1. [Người mới thường quay video tập để làm gì: gửi cho bạn, gửi cho PT, hay không thực sự quay bài nào?]
+2. [Họ muốn AI kiểm tra mọi lần tập, hay chỉ những lần tập bài nặng, bài mới, hoặc chỉ khi không chắc chắn?]
+3. [Họ muốn AI nói đúng/sai theo tiêu chí kỹ thuật (góc, độ sâu, độ cong) hay theo cảm giác “an toàn/khó chịu” lúc tập?]
